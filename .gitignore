@@ -1,0 +1,18 @@
+# Log file
+*.log
+
+# Package Files #
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+
+*.iml
+.idea
+build
+node_modules
+.coursecreator
+package-lock.json
