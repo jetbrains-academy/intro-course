@@ -1,0 +1,8 @@
+title: Introductory Course
+language: English
+summary: |-
+  This tutorial is designed to help learners in taking the first steps with
+    the EduTools plugin and use it to learn programming.
+programming_language: JavaScript
+content:
+- EduTools plugin overview
