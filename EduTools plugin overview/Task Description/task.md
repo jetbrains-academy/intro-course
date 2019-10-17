@@ -17,7 +17,10 @@ Use the Task Description icons for the following actions:
 
 ![](../../images/reset.svg) – discard all the changes you’ve made in the task, and start over.  
  
- ![](../../images/commentTask.svg) – view the task page on Stepik and leave a comment.  
+![](../../images/commentTask.svg) – view the task page on Stepik and leave a comment.  
+
+<img src="../../images/edu_peek_solution.png" width="99" height="14"/> 
+– reveal the correct answer and show the <b>diff</b>.
 
 We recommend keeping the Task Description visible and not hiding it completely. But if it proves too distracting, you can move it out of the way by clicking the ![](../../images/hideToolWindow.svg) button in the top right-hand corner of the Task Description window.
 
